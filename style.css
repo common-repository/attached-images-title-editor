@@ -1,0 +1,17 @@
+#textbox {
+	margin-bottom:10px;
+	}
+.tablenav {
+	float:right;
+	}
+.checkmark {
+	margin-left:5px;
+	margin-right:5px;
+	}
+#post_title { width:30%; }
+#name { width:20%; }
+#date { width:150px; }
+#qty { width:80px; }
+.column-qty { text-align:center; }
+#tx { width:30%; }
+.new_desc { width:50%; margin-right:5px; }
